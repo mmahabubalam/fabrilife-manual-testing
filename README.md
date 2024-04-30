@@ -1,7 +1,7 @@
 # Manual Testing project of an e-commerce site named Fabrilife
 - [WebSite Link.](https://fabrilife.com/)
 
-## [Live Project]([https://fabrilife.com/](https://docs.google.com/spreadsheets/d/1bwXzBFSnQK7t_pc7xJfi2VeNg6VeFj0q/edit?usp=sharing&ouid=116881285861027784952&rtpof=true&sd=true)
+## [Live Project](https://docs.google.com/spreadsheets/d/1bwXzBFSnQK7t_pc7xJfi2VeNg6VeFj0q/edit?usp=sharing&ouid=116881285861027784952&rtpof=true&sd=true)
 For each function, 10 important test cases are included 
 
 For quick view: 
